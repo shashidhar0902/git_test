@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: echo {a..z}[{a..z}{A..Z}
+        run: echo {a..z}{a..z}{A..Z}{a..z}{a..z}{a..z}{a..z}{a..z}{a..z}{a..z}{a..z}
       - name: pwd
         run: cd ../..
 
