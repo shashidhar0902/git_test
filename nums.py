@@ -15,5 +15,5 @@ class A:
     c = 1
 
     
-A a  = new A()
-print(s.c)
+a  = A()
+print(a.c)
