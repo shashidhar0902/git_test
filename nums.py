@@ -9,6 +9,7 @@ def summa(a,b):
 
 print(summa(1,3))
 
+
 class A:
   def __init__():
     c = 1
