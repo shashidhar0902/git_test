@@ -11,7 +11,7 @@ print(summa(1,3))
 
 
 class A:
-  def __init__():
+  def __init__(this):
     c = 1
 
     
