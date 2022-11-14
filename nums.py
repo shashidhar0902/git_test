@@ -3,7 +3,7 @@ for i in range(5):
 print("good")
 
 
-class summa(a,b):
+def summa(a,b):
   return a+b
 
 
