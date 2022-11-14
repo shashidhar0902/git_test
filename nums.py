@@ -12,7 +12,7 @@ print(summa(1,3))
 
 class A:
   def __init__(self):
-    c = 1
+    self.c = 1
 
     
 a  = A()
