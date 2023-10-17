@@ -17,4 +17,3 @@ class A:
     
 a  = A()
 print(a.c)
-#test comment
